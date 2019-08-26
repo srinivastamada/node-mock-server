@@ -1,7 +1,7 @@
 # Mock Server
 
 ## Run Server
-$node server.js
+`$node server.js`
 
 ## End Points
 
