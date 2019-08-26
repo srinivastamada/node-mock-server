@@ -1,3 +1,4 @@
-# node-mock-server
 
-node server.js
+
+# Run Server
+$node server.js
